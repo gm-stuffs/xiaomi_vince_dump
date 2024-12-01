@@ -1,0 +1,14 @@
+# vince-user 8.1.0 OPM1.171019.019 V11.0.2.0.OEGMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: vince
+- flavor: vince-user
+- release: 8.1.0
+- id: OPM1.171019.019
+- incremental: V11.0.2.0.OEGMIXM
+- tags: release-keys
+- fingerprint: xiaomi/vince/vince:8.1.0/OPM1.171019.019/V11.0.2.0.OEGMIXM:user/release-keys
+- is_ab: false
+- brand: xiaomi
+- branch: vince-user-8.1.0-OPM1.171019.019-V11.0.2.0.OEGMIXM-release-keys
+- repo: xiaomi_vince_dump
